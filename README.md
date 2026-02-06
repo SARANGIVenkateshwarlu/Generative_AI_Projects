@@ -1,16 +1,7 @@
-🔹 Project: Dialogue Summarization with Large Language Models (LLMs)
 
-This project explores how Large Language Models (LLMs) can be guided to perform dialogue summarization using prompt engineering techniques. Using the FLAN‑T5 model and the DialogSum dataset, the project demonstrates the impact of zero‑shot, one‑shot, and few‑shot inference on summarization quality. It also analyzes how generation parameters such as temperature and sampling influence model outputs, providing hands‑on insights into practical LLM deployment for NLP tasks.
+**📌 Project Title Dialogue Summarization Using Large Language Models (FLAN‑T5)**  
 
-Key Skills:
-LLMs · Prompt Engineering · Hugging Face Transformers · NLP · Text Summarization · PyTorch
-🔹 README.md – Detailed Project Description
-📌 Project Title
-
-Dialogue Summarization Using Large Language Models (FLAN‑T5)
-📖 Overview
-
-This project demonstrates how Generative AI and Large Language Models (LLMs) can be applied to the task of dialogue summarization. The focus is on understanding how prompt design and inference strategies influence model performance, rather than model training.
+📖 Overview : This project demonstrates how Generative AI and Large Language Models (LLMs) can be applied to the task of dialogue summarization. The focus is on understanding how prompt design and inference strategies influence model performance, rather than model training. 
 
 Using the FLAN‑T5 model from Hugging Face and the DialogSum dataset, the project walks through:
 
@@ -70,4 +61,5 @@ Using the FLAN‑T5 model from Hugging Face and the DialogSum dataset, the proje
     Meeting and conversation summaries
     Chatbot conversation analytics
     Business intelligence and reporting
+
 
