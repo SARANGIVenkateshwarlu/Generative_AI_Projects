@@ -19,4 +19,7 @@ __pycache__/
 data/
 # Ignore model files
 models/
+output_merged/
+output_merged.zip/
+output/
 
