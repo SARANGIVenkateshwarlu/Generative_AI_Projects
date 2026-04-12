@@ -938,6 +938,7 @@ dependencies = [
     { name = "scipy" },
     { name = "sentencepiece" },
     { name = "streamlit" },
+    { name = "torch" },
     { name = "tqdm" },
     { name = "transformers" },
 ]
@@ -958,6 +959,7 @@ requires-dist = [
     { name = "scipy", specifier = "==1.13.1" },
     { name = "sentencepiece", specifier = "==0.2.0" },
     { name = "streamlit", specifier = "==1.56.0" },
+    { name = "torch", specifier = ">=2.11.0" },
     { name = "tqdm", specifier = "==4.67.1" },
     { name = "transformers", specifier = "==4.40.0" },
 ]
