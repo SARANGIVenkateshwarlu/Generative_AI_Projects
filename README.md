@@ -108,7 +108,7 @@ Intuition
     ROUGE asks: (Recall-Oriented)
     “Did you cover the important parts?”
 
-## FLAN-T5 247M base
+## FLAN-T5 247M base (https://arxiv.org/pdf/2210.11416)
  FLAN‑T5 is an encoder–decoder (seq2seq) model 
 
 
@@ -132,6 +132,8 @@ Qualitative Evaluation (Human-Readable):
 Quantitative ROUGE Comparison:
 
 streamlit.py for inference 
+
+
 
 
 
